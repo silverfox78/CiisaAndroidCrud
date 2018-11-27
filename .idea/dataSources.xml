@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Android SQLite" uuid="c75f2b26-d2a9-492a-99cc-4202ac9f87aa">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Samuel Barrera\.IntelliJIdea2018.2\system\android\databases\SERIAL_NUMBER_127_0_0_1_62001\cl.ciisa.movil.crudexample\internal\Biblioteca</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Biblioteca" uuid="f2400a35-9cac-49e5-8a52-724299569534">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Samuel Barrera\.IntelliJIdea2018.2\system\android\databases\SERIAL_NUMBER_127_0_0_1_62001\cl.ciisa.movil.crudexample\internal\Biblioteca</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/sqlite-jdbc-3.25.1.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Biblioteca" uuid="50b65d01-69f7-4a60-9541-2510595ab3cb">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Samuel Barrera\.IntelliJIdea2018.2\system\android\databases\SERIAL_NUMBER_127_0_0_1_62001\cl.ciisa.movil.crudexample\internal\Biblioteca</jdbc-url>
+      <libraries>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/license.txt</url>
+        </library>
+        <library>
+          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.25.1/sqlite-jdbc-3.25.1.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>

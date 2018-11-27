@@ -1,0 +1,13 @@
+# Proyecto Android - Ejemplo CRUD
+
+**TALLER DE DESARROLLO E IMPLEMENTACION DE APLICACIONES MOVILES**
+
+**PROFESOR:** CARLOS DUQUE JAUREGUI
+
+**CODIGO:** TP206IECIRE-6
+
+**SALA:** AL122
+
+**Alumno:**
+
+* Samuel Barrera Bastidas - Seccion: **6**
